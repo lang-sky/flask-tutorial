@@ -18,5 +18,8 @@ $ flask db upgrade
 $ flask db migrate -m "posts table"
 $ flask db upgrade
 
+$ pip install flask-login
+$ pip install email-validator
+
 $ flask run
 ```
